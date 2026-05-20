@@ -26,7 +26,7 @@
 - [x] 09. Collider/Trigger
 - [x] 10. Новая Input System
 - [x] 11. ScriptableObject
-- [ ] 12. Object Pooling
+- [x] 12. Object Pooling
 
 ### Блок 3 — Архитектура и паттерны
 - [ ] 13. Singleton
