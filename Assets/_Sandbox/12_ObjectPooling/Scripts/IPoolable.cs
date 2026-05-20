@@ -1,16 +1,10 @@
-using UnityEngine;
 
-public class IPoolable : MonoBehaviour
+
+namespace Sandbox.Task12
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public interface IPoolable
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        void OnSpawnFromPool();
+        void OnReturnToPool();
     }
 }
