@@ -14,4 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Sandbox.Task11.HazardData
   _hazardName: Lava
   _damage: 25
-  _knockbackForce: 5
+  _damageInterval: 0.5
+  _color: {r: 0.86415094, g: 0.16037476, b: 0.07011029, a: 1}

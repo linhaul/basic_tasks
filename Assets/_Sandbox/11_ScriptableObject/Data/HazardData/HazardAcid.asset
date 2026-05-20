@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68bdc0241c592914fbf922a8ae4aef33, type: 3}
   m_Name: HazardAcid
   m_EditorClassIdentifier: Assembly-CSharp::Sandbox.Task11.HazardData
-  _hazardName: acid
+  _hazardName: Acid
   _damage: 15
-  _knockbackForce: 5
+  _damageInterval: 0.5
+  _color: {r: 0.30250087, g: 0.90188676, b: 0.07997859, a: 1}

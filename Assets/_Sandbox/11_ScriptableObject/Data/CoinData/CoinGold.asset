@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Sandbox.Task11.CoinData
   _coinName: Gold
   _value: 10
-  _color: {r: 0.7584905, g: 0.66283864, b: 0.19892481, a: 0}
+  _color: {r: 0.9245283, g: 0.8977983, b: 0.15873975, a: 1}

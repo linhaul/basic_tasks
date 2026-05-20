@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Sandbox.Task11.CoinData
   _coinName: Bronze
   _value: 1
-  _color: {r: 0.75686276, g: 0.4278446, b: 0.2349804, a: 0}
+  _color: {r: 1, g: 0.5490196, b: 0, a: 1}
