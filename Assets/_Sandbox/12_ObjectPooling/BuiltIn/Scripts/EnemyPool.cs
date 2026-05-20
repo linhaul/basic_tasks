@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Pool;
 
@@ -29,8 +28,8 @@ namespace Sandbox.Task12.BuiltIn
                 },
                 actionOnRelease: enemy =>
                 {
-                    enemy.gameObject.SetActive(false);
                     enemy.OnReturnToPool();
+                    enemy.gameObject.SetActive(false);
                 },
                 actionOnDestroy: enemy => Destroy(enemy.gameObject),
                 collectionCheck: true,
