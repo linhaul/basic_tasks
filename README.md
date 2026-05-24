@@ -29,7 +29,7 @@
 - [x] 12. Object Pooling
 
 ### Блок 3 — Архитектура и паттерны
-- [ ] 13. Singleton
+- [x] 13. Singleton
 - [ ] 14. Observer pattern
 - [ ] 15. FSM (AI врагов)
 - [ ] 16. PlayerPrefs
